@@ -10,6 +10,7 @@ program hello
 !    write(*,*)i,j,k
 
 !	another edit
+!	edit from github
 	real :: x
     x=.2
     do while(x.lt..95)
